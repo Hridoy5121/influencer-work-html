@@ -111,7 +111,13 @@ button{
     width: 329px;
     height: 476px;
     align-items: center;
-    margin-left: 18%;    
+    margin-left: 18%;
+    transition: 0.5s;
+    
+}
+.courses:hover{
+    transform: translateY(-12px);
+
 }
 
 .course .course-banner img{
